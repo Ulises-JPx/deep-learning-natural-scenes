@@ -30,12 +30,13 @@ Este proyecto implementa un pipeline de visión por computadora completo, desde 
 deep-learning-natural-scenes/
 │
 ├── colab/
-│   └── scenes_classification.ipynb    # Versión funcional probada en Google Colab
+│   └── scenes_classification.ipynb        # Versión funcional probada en Google Colab
 │
 ├── local/
-│   ├── main_local.py                  # Versión local (no probada por limitaciones de hardware)
-│   ├── data/                          # Dataset local (ignorado en GitHub)
-│   ├── models/                        # Modelos locales (ignorado en GitHub)
+│   ├── scenes_classification_local.py     # Versión local (no probada por limitaciones de hardware)
+│   ├── requirements.txt                   # Requerimientos para utilizar el código.
+│   ├── data/                              # Dataset local (ignorado en GitHub)
+│   ├── models/                            # Modelos locales (ignorado en GitHub)
 │   └── images/
 │
 └── README.md
