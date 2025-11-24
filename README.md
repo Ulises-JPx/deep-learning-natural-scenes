@@ -146,7 +146,11 @@ El uso de Google Colab permitió completar el proyecto de manera eficiente, evit
 
 ## Autor
 
-*Proyecto desarrollado como parte del portafolio de implementación del módulo #2 TC3007C.501 de Deep Learning para clasificación de imágenes.*
+**Ulises Jaramillo Portilla** — *Matrícula:* A01798380
+
+**Tecnológico de Monterrey** - Campus Estado de México
+
+*Proyecto desarrollado como parte del portafolio de implementación del **_módulo #2 TC3007C.501_** de Deep Learning para clasificación de imágenes.*
 
 ## Licencia
 
