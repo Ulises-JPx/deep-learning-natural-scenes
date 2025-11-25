@@ -1,3 +1,9 @@
+# ⚠️ **VERSIÓN CORREGIDA — REPOSITORIO ACTUALIZADO**
+
+> **Versión corregida y repo actualizado a la última entrega.** La entrega
+> anterior no pudo ser observada y además estaba incompleta; esta entrega
+> sí está completa y funcional.
+
 # Intel Image Classification – Deep Learning Natural Scenes Project
 
 Este repositorio contiene la implementación completa de un modelo de clasificación de escenas naturales utilizando redes neuronales profundas. El proyecto se desarrolló en dos versiones:
@@ -6,6 +12,8 @@ Este repositorio contiene la implementación completa de un modelo de clasificac
 - **Versión Local (adaptada pero no probada debido a limitaciones del equipo utilizado)**
 
 La solución emplea TensorFlow y EfficientNetB0, aplicando técnicas modernas de deep learning como transfer learning, data augmentation y fine-tuning.
+
+
 
 ---
 
