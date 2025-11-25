@@ -1,5 +1,3 @@
-# ⚠️ **VERSIÓN CORREGIDA — REPOSITORIO ACTUALIZADO**
-
 > **Versión corregida y repo actualizado a la última entrega.** La entrega
 > anterior no pudo ser observada y además estaba incompleta; esta entrega
 > sí está completa y funcional.
