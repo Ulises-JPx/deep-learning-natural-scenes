@@ -1,7 +1,15 @@
 > **Versión corregida y repo actualizado a la última entrega.**
-> 
+>
 > La entrega anterior no pudo ser observada y además estaba incompleta; esta entrega
 > sí está completa y funcional.
+>
+> - **Notebook (reporte del procedimiento):** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="22" style="vertical-align: middle; margin-right: 6px;">
+> [scenes_classification.ipynb](colab/scenes_classification.ipynb)
+>
+> - **PDF (reporte final explicativo):**
+> 📄 [A01798380_Reporte.pdf](documentation/A01798380_Reporte.pdf)
+
+---
 
 # Intel Image Classification – Deep Learning Natural Scenes Project
 
