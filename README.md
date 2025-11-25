@@ -1,5 +1,6 @@
-> **Versión corregida y repo actualizado a la última entrega.** La entrega
-> anterior no pudo ser observada y además estaba incompleta; esta entrega
+> **Versión corregida y repo actualizado a la última entrega.**
+> 
+> La entrega anterior no pudo ser observada y además estaba incompleta; esta entrega
 > sí está completa y funcional.
 
 # Intel Image Classification – Deep Learning Natural Scenes Project
