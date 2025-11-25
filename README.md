@@ -32,6 +32,9 @@ deep-learning-natural-scenes/
 ├── colab/
 │   └── scenes_classification.ipynb        # Versión funcional probada en Google Colab
 │
+├── documentation/
+│   └── A01798380_Reporte.pdf              # Reporte escrito del proyecto
+│
 ├── local/
 │   ├── scenes_classification_local.py     # Versión local (no probada por limitaciones de hardware)
 │   ├── requirements.txt                   # Requerimientos para utilizar el código.
